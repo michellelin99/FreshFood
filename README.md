@@ -1,17 +1,15 @@
-# Project 1 - SimpleToDo
+# Project 1 - Fresh Food
 
-SimpleToDo is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+FreshFood is an android app that allows the user to maintain a running list of food items to keep track of to avoid throwing away spoiled food. This app is built off of my template Simple ToDo List app.
 
-Submitted by: Michelle Lin
-
-Time spent: 2.5 hours
+Time spent: 0 (8.7.2020)
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-* [ ] User can **view a list of todo items**
-* [ ] User can **successfully add and remove items** from the todo list
+* [ ] User can **view a list of items**
+* [ ] User can **successfully add and remove items** from the list
 * [ ] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
 The following **optional** features are implemented:
@@ -28,7 +26,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-There was some initial difficulty understanding the need to implement the two interfaces for OnClick and OnLongClick in ItemsAdapter.java.
 
 ## License
 
